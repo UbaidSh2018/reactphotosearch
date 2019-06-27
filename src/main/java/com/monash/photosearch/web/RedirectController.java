@@ -1,4 +1,3 @@
-/*
 package com.monash.photosearch.web;
 
 import org.springframework.context.annotation.Profile;
@@ -14,4 +13,4 @@ public class RedirectController {
         return "redirect:/";
     }
 }
-*/
+
